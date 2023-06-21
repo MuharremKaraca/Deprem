@@ -1,0 +1,264 @@
+@media (max-width:1399.98px){
+    .Main{
+        width: 100%;
+        height: 100%;
+    }
+    .Top{
+        width: 100%;
+        height: 400px;
+    }
+    .Top img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .Middle{
+        width: 100%;
+        height: auto;
+        padding-top: 50px;
+        padding-right: 100px;
+        padding-left: 100px;
+    }
+    .Middle h1,h2, p{
+        font-family: 'Poppins', sans-serif;
+    }
+    .Middle p, li{
+        font-size: 18px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .Middle .t-katman{
+        margin-top: 2%;
+    }
+    .Bottom{
+        width: 100%;
+        height: 100%;
+    }
+    .Bottom img{
+        width: 100%;
+        height: auto;
+        object-fit:cover;
+    }
+    .header{
+        position: relative;
+    }
+}
+@media (max-width:1199.98px){
+    .Main{
+        width: 100%;
+        height: 100%;
+    }
+    .Top{
+        width: 100%;
+        height: 400px;
+    }
+    .Top img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .Middle{
+        width: 100%;
+        height: auto;
+        padding-top: 50px;
+        padding-right: 100px;
+        padding-left: 100px;
+    }
+    .Middle h1,h2, p{
+        font-family: 'Poppins', sans-serif;
+    }
+    .Middle p, li{
+        font-size: 18px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .Middle .t-katman{
+        margin-top: 2%;
+    }
+    .Bottom{
+        width: 100%;
+        height: 100%;
+    }
+    .Bottom img{
+        width: 100%;
+        height: auto;
+        object-fit:cover;
+    }
+    .header{
+        position: relative;
+    }
+}
+@media (max-width:991.98px){
+    .Main{
+        width: 100%;
+        height: 100%;
+    }
+    .Top{
+        width: 100%;
+        height: 400px;
+    }
+    .Top img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .Middle{
+        width: 100%;
+        height: auto;
+        padding-top: 50px;
+        padding-right: 100px;
+        padding-left: 100px;
+    }
+    .Middle h1,h2, p{
+        font-family: 'Poppins', sans-serif;
+    }
+    .Middle p, li{
+        font-size: 18px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .Middle .t-katman{
+        margin-top: 2%;
+    }
+    .Bottom{
+        width: 100%;
+        height: 100%;
+    }
+    .Bottom img{
+        width: 100%;
+        height: auto;
+        object-fit:cover;
+    }
+    .header{
+        position: relative;
+    }
+}
+@media (max-width:767.98px){
+    .Main{
+        width: 100%;
+        height: 100%;
+    }
+    .Top{
+        width: 100%;
+        height: 400px;
+    }
+    .Top img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .Middle{
+        width: 100%;
+        height: auto;
+        padding-top: 50px;
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+    .Middle h1,h2, p{
+        font-family: 'Poppins', sans-serif;
+    }
+    .Middle p, li{
+        font-size: 18px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .Middle .t-katman{
+        margin-top: 2%;
+    }
+    .Bottom{
+        width: 100%;
+        height: 100%;
+    }
+    .Bottom img{
+        width: 100%;
+        height: auto;
+        object-fit:cover;
+    }
+    .header{
+        position: relative;
+    }
+}
+@media (max-width:575.98px){
+    .Main{
+        width: 100%;
+        height: 100%;
+    }
+    .Top{
+        width: 100%;
+        height: 400px;
+    }
+    .Top img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .Middle{
+        width: 100%;
+        height: auto;
+        padding-top: 50px;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .Middle h1,h2, p{
+        font-family: 'Poppins', sans-serif;
+    }
+    .Middle p, li{
+        font-size: 18px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .Middle .t-katman{
+        margin-top: 2%;
+    }
+    .Bottom{
+        width: 100%;
+        height: 100%;
+    }
+    .Bottom img{
+        width: 100%;
+        height: auto;
+        object-fit:cover;
+    }
+    .header{
+        position: relative;
+    }
+}
+@media (min-width:1400px){
+    .Main{
+        width: 100%;
+        height: 100%;
+    }
+    .Top{
+        width: 100%;
+        height: 400px;
+    }
+    .Top img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .Middle{
+        width: 100%;
+        height: auto;
+        padding-top: 50px;
+        padding-right: 100px;
+        padding-left: 100px;
+    }
+    .Middle h1,h2, p{
+        font-family: 'Poppins', sans-serif;
+    }
+    .Middle p, li{
+        font-size: 18px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .Middle .t-katman{
+        margin-top: 2%;
+    }
+    .Bottom{
+        width: 100%;
+        height: 100%;
+    }
+    .Bottom img{
+        width: 100%;
+        height: auto;
+        object-fit:cover;
+    }
+    .header{
+        position: relative;
+    }
+}
